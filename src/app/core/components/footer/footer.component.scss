@@ -1,0 +1,16 @@
+.c-footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    background-color:#333333 ;
+    font-size: 14px;
+    width: 100%;
+    height: 200px;
+    margin-top: 40px;
+    &__content{
+      cursor: pointer;
+    }
+  }
+  
